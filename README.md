@@ -1,1 +1,1 @@
-# responsive-resume.html-css-grid
+Combinators, Id selector, Class selector - Post Class - Responsive Resume using CSS Grid
